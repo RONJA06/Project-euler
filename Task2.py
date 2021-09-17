@@ -6,3 +6,4 @@ while i < 4000000:
         sum += i
     i, j = i + j, i
 print(sum)
+print(i, j)
